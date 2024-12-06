@@ -1,0 +1,14 @@
+C:\Users\grant\VsCode\fblaStoryProj\fblaProject1\obj\Debug\net8.0\fblaProject1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grant\VsCode\fblaStoryProj\fblaProject1\obj\Debug\net8.0\fblaProject1.AssemblyInfoInputs.cache
+C:\Users\grant\VsCode\fblaStoryProj\fblaProject1\obj\Debug\net8.0\fblaProject1.AssemblyInfo.cs
+C:\Users\grant\VsCode\fblaStoryProj\fblaProject1\obj\Debug\net8.0\fblaProject1.csproj.CoreCompileInputs.cache
+C:\Users\grant\VsCode\fblaStoryProj\fblaProject1\bin\Debug\net8.0\fblaProject1.exe
+C:\Users\grant\VsCode\fblaStoryProj\fblaProject1\bin\Debug\net8.0\fblaProject1.deps.json
+C:\Users\grant\VsCode\fblaStoryProj\fblaProject1\bin\Debug\net8.0\fblaProject1.runtimeconfig.json
+C:\Users\grant\VsCode\fblaStoryProj\fblaProject1\bin\Debug\net8.0\fblaProject1.dll
+C:\Users\grant\VsCode\fblaStoryProj\fblaProject1\bin\Debug\net8.0\fblaProject1.pdb
+C:\Users\grant\VsCode\fblaStoryProj\fblaProject1\obj\Debug\net8.0\fblaProject1.dll
+C:\Users\grant\VsCode\fblaStoryProj\fblaProject1\obj\Debug\net8.0\refint\fblaProject1.dll
+C:\Users\grant\VsCode\fblaStoryProj\fblaProject1\obj\Debug\net8.0\fblaProject1.pdb
+C:\Users\grant\VsCode\fblaStoryProj\fblaProject1\obj\Debug\net8.0\fblaProject1.genruntimeconfig.cache
+C:\Users\grant\VsCode\fblaStoryProj\fblaProject1\obj\Debug\net8.0\ref\fblaProject1.dll
